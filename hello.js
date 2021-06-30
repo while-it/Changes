@@ -1,1 +1,1 @@
-console.log("hello","rewr","test","hello");
+console.log("hello");
